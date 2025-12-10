@@ -4,7 +4,7 @@
 
 Projetos realizados durante o Bootcamp de Java "Programa Start".
 
-## Projetos
+## 💼 Projetos
 
 ### 🏷️ AnnotationTeste
 - Projeto com o objetivo de treinar o uso de Annotations.
@@ -17,3 +17,6 @@ Projetos realizados durante o Bootcamp de Java "Programa Start".
 ### 🧵 PrimeiroProjetoThread
 - Primeiro projeto utilizando Threads.
 - Acesse o projeto: [./PrimeiroProjetoThread/](./PrimeiroProjetoThread/)
+
+## 📄 Licença
+Este repositório está licenciado sob a licença MIT — veja o arquivo [LICENSE](./LICENSE) para o texto completo.
